@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Argen ALimbaev</h1>
+<h1 align="center">Hi 👋, I'm Argen Alimbaev</h1>
 <h3 align="center">Front-end developer with more than 1.5 years experience. Participated in creating interfaces for various types of web applications such as sales platform, sports event platform. Experience in the development team, where I worked effectively with designers and backend developers to create a quality and user-friendly interface.. Knowledge of creating responsive interfaces. Open to learning and development. Communicative, organized, and deadline-oriented.</h3>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, NestJS**
