@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **argoalimbaev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1khU17PexevYcUhOjM4F6uE7Emc10mQLj/view](https://drive.google.com/file/d/1khU17PexevYcUhOjM4F6uE7Emc10mQLj/view)
+- 📄 Know about my experiences [click](https://drive.google.com/file/d/1khU17PexevYcUhOjM4F6uE7Emc10mQLj/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
