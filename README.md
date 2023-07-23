@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argen Alimbaev</h1>
-<h3 align="center">Front-end developer with more than 1 year experience. Experience in the development team, where I worked effectively with designers and backend developers to create a quality and user-friendly interface. Knowledge of creating responsive interfaces. Open to learning and development. Communicative, organized, and deadline-oriented.</h3>
-
-- 🌱 I’m currently learning **NodeJS, ExpressJS, NestJS**
+<h3 align="center">Front-end developer with more than 1.5 year experience. Experience in the development team, where I worked effectively with designers and backend developers to create a quality and user-friendly interface. Knowledge of creating responsive interfaces. Open to learning and development. Communicative, organized, and deadline-oriented.</h3>
 
 - 📫 How to reach me **argoalimbaev@gmail.com**
 
