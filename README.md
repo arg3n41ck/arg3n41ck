@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **argoalimbaev@gmail.com**
 
-- 📄 [Know about my experiences]([https://drive.google.com/file/d/1khU17PexevYcUhOjM4F6uE7Emc10mQLj/view](https://arg3n41ck.github.io/cv/))
+- 📄 [Know about my experiences](https://arg3n41ck.github.io/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
